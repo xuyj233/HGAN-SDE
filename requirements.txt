@@ -1,0 +1,7 @@
+torch>=2.0
+torchcde
+torchsde
+numpy>=1.20
+scipy>=1.7
+matplotlib>=3.5
+tqdm>=4.60
